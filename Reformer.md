@@ -47,4 +47,5 @@
 
 
 ## Reference
+- Reformer: https://arxiv.org/pdf/2001.04451.pdf
 - Reformer review: https://blog.pingpong.us/reformer-review/
