@@ -79,4 +79,5 @@ https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-
  
 ## Reference
 - Latent factor & Matrix factorization: https://wooono.tistory.com/149
-
+- Deep Learning Recommendation Model for Personalization and Recommendation Systems: https://arxiv.org/pdf/1906.00091.pdf
+- Factorization Machine: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
