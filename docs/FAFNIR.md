@@ -38,7 +38,7 @@
 
 ## FAFNIR
 - Microarchitecture of PE
-<p align="center"><img width="800" alt="image" src="https://user-images.githubusercontent.com/49300363/127854382-ee0b9ced-b067-47e7-a34a-47d74bfdbe95.png"></p>
+<p align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/49300363/127854382-ee0b9ced-b067-47e7-a34a-47d74bfdbe95.png"></p>
 
 - Key machanisms
 <p align="center"><img width="1475" alt="image" src="https://user-images.githubusercontent.com/49300363/127854578-cdbb0520-f258-4601-a92b-4604a279f234.png"></p>
@@ -63,3 +63,4 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/49300363/127857360-75e3e3b6-3961-4f82-b124-07115b26a808.png"></p>
 
 ## Evaluation
+- TBU
