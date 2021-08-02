@@ -63,4 +63,7 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/49300363/127857360-75e3e3b6-3961-4f82-b124-07115b26a808.png"></p>
 
 ## Evaluation
+- C++ -> RTL generation, Performance evaluation
+- Vivado HLS: for synthesis & implementation, on XCVU9P FPGA targeting a VCU1525 acceleration development kit (16GB DDR4 DIMMs = 64GB total per DIMM/rank node)
+- Application: recommendation system (embedding lookup), graph analytics and scientific applications (SpMV)
 - TBU
